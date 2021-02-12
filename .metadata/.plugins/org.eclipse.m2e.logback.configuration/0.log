@@ -327,3 +327,333 @@
 2021-02-11 20:48:19,704 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
 2021-02-11 22:11:54,729 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2021-02-11 23:47:49,342 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-02-12 14:28:06,015 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-02-12 14:36:39,518 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 14:36:39,518 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 14:36:39,529 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 14:36:39,567 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 14:36:39,581 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 14:36:39,581 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 14:36:39,582 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 14:39:39,668 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 14:39:39,668 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 14:39:39,674 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 14:39:39,695 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 14:39:39,706 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 14:39:39,706 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 14:39:39,707 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 14:39:52,573 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 14:39:52,574 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 14:39:52,575 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 14:39:52,746 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 14:39:52,773 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 14:39:52,773 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 14:39:52,773 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 14:46:47,285 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 14:46:47,285 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 14:46:47,287 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 14:46:47,398 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 14:46:47,418 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 14:46:47,499 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 14:46:47,499 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 14:53:36,689 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 14:53:36,690 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 14:53:36,696 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 14:53:36,711 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 14:53:36,717 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 14:53:36,717 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 14:53:36,717 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 14:56:43,282 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 14:56:43,284 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 14:56:43,285 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 14:56:43,347 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 14:56:43,351 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 14:56:43,352 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 14:56:43,352 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 15:01:33,186 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:01:33,187 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:01:33,188 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 15:01:33,305 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 15:01:33,335 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:01:33,335 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:01:33,335 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 15:12:24,478 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:12:24,488 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:12:24,490 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 15:12:24,528 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 15:12:24,538 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:12:24,538 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:12:24,539 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 15:13:37,477 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:13:37,478 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:13:37,479 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 15:13:37,537 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 15:13:37,551 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:13:37,552 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:13:37,552 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 15:17:23,007 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:17:23,007 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:17:23,008 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 15:17:23,094 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 15:17:23,127 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:17:23,128 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:17:23,128 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 15:19:59,507 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:19:59,507 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:19:59,508 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 15:19:59,527 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 15:19:59,533 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:19:59,534 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:19:59,535 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 15:20:23,768 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:20:23,768 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:20:23,772 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 15:20:24,436 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 15:20:24,444 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:20:24,445 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:20:24,445 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 15:21:13,324 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:21:13,325 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:21:13,326 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 15:21:13,383 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 15:21:13,415 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:21:13,416 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:21:13,416 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 15:21:31,255 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:21:31,255 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:21:31,256 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 15:21:31,289 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 15:21:31,303 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:21:31,303 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:21:31,304 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 15:23:26,186 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:23:26,186 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:23:26,187 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 15:23:26,257 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 15:23:26,262 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:23:26,262 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:23:26,262 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 15:25:04,440 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:25:04,440 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:25:04,442 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 15:25:04,463 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 15:25:04,471 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:25:04,472 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:25:04,472 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 15:36:06,589 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:36:06,589 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:36:06,590 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 15:36:06,634 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 15:36:06,643 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:36:06,643 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:36:06,643 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 15:39:48,250 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:39:48,251 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:39:48,251 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 15:39:48,266 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 15:39:48,273 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:39:48,273 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:39:48,273 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 15:40:21,597 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:40:21,599 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:40:21,601 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 15:40:21,680 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 15:40:21,685 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:40:21,685 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:40:21,685 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 15:41:33,195 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:41:33,196 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:41:33,197 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 15:41:33,257 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 15:41:33,263 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:41:33,263 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:41:33,264 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 15:44:32,548 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:44:32,549 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:44:32,550 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 15:44:32,606 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 15:44:32,615 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:44:32,615 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:44:32,615 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 15:46:32,373 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:46:32,374 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:46:32,375 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 15:46:32,412 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 15:46:32,417 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:46:32,417 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:46:32,417 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 15:46:55,106 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:46:55,107 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:46:55,109 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 15:46:55,130 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 15:46:55,133 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:46:55,135 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:46:55,135 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 15:49:40,087 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:49:40,087 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:49:40,088 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 15:49:40,140 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 15:49:40,147 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:49:40,147 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:49:40,147 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 15:57:10,809 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:57:10,809 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:57:10,810 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 15:57:10,823 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 15:57:10,827 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 15:57:10,827 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 15:57:10,827 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 16:00:36,101 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 16:00:36,102 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 16:00:36,102 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 16:00:36,136 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 16:00:36,155 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 16:00:36,155 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 16:00:36,155 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 16:06:43,052 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 16:06:43,052 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 16:06:43,053 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 16:06:43,066 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 16:06:43,072 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 16:06:43,072 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 16:06:43,072 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 16:17:53,561 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 16:17:53,561 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 16:17:53,562 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 16:17:53,606 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 16:17:53,612 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 16:17:53,612 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 16:17:53,612 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 16:21:05,551 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 16:21:05,552 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 16:21:05,553 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 16:21:05,600 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 16:21:05,605 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 16:21:05,605 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 16:21:05,605 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 16:37:13,820 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 16:37:13,821 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 16:37:13,823 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 16:37:14,004 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 16:37:14,013 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 16:37:14,014 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 16:37:14,014 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 16:40:05,569 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 16:40:05,569 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 16:40:05,570 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 16:40:05,613 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 16:40:05,621 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 16:40:05,621 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 16:40:05,622 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 17:02:06,743 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:02:06,744 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:02:06,745 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 17:02:06,901 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:02:06,912 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:02:06,912 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:02:06,912 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 17:02:22,394 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:02:22,395 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:02:22,397 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 17:02:22,526 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:02:22,531 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:02:22,531 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:02:22,531 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 17:02:39,463 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:02:39,463 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:02:39,464 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 17:02:39,512 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:02:39,516 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:02:39,517 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:02:39,517 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 17:12:15,636 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:12:15,637 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:12:15,638 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 17:12:15,707 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:12:15,710 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:12:15,710 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:12:15,710 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 17:25:05,192 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:25:05,193 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:25:05,194 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 17:25:05,268 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:25:05,273 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:25:05,273 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:25:05,275 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 17:27:16,245 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:27:16,245 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:27:16,248 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 17:27:16,319 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:27:16,325 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:27:16,325 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:27:16,325 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 17:27:59,963 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:27:59,964 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:27:59,966 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 17:28:00,025 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:28:00,030 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:28:00,030 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:28:00,031 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 17:33:50,334 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:33:50,335 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:33:50,336 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 17:33:50,385 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:33:50,395 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:33:50,396 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:33:50,396 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 17:34:13,468 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:34:13,468 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:34:13,469 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 17:34:13,482 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:34:13,486 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:34:13,487 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:34:13,487 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 17:44:23,631 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:44:23,631 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:44:23,632 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 17:44:23,647 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:44:23,652 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:44:23,652 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:44:23,653 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 17:44:47,074 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:44:47,074 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:44:47,075 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 17:44:47,306 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:44:47,310 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:44:47,310 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:44:47,310 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 17:46:08,308 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:46:08,308 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:46:08,309 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 17:46:08,347 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:46:08,352 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:46:08,352 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:46:08,352 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 17:48:41,400 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:48:41,401 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:48:41,401 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 17:48:41,422 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:48:41,425 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:48:41,425 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:48:41,425 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 17:53:04,319 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:53:04,319 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:53:04,320 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 17:53:04,332 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:53:04,337 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:53:04,337 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:53:04,337 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 17:54:13,366 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:54:13,367 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:54:13,367 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 17:54:13,380 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 17:54:13,384 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 17:54:13,384 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 17:54:13,385 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources
+2021-02-12 18:10:02,195 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 18:10:02,195 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 18:10:02,198 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-12 18:10:02,207 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-12 18:10:02,231 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-12 18:10:02,232 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-12 18:10:02,232 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\ProjectManagementWorkSpace\ppmtoolapi\src\test\resources

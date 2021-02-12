@@ -2,6 +2,7 @@ package com.cg.ppmtoolapi.domain;
 
 import java.util.Date;
 
+import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
@@ -25,6 +26,7 @@ public class Project {
 	
 	@NotBlank(message = "Project Identifier required")
 	@Size(min=4 ,max=5, message = "Size must be 4 to 5 Charecters")
+	@Column(unique = true, updatable = false)
 	private String projectIdentifier;
 	
 	@NotBlank(message = "Project Description required")

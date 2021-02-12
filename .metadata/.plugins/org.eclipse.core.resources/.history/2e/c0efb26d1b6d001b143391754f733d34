@@ -1,0 +1,14 @@
+package com.cg.ppmtoolapi.exception;
+
+public class ProjectIdException extends RuntimeException {
+	 
+	public ProjectIdException() {
+		
+	}
+	
+	public ProjectIdException(String errMsg) {
+		super(errMsg);
+	}
+	
+
+}

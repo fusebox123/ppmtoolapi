@@ -1245,3 +1245,1243 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-12 14:28:29.600
 !MESSAGE executing callback sts4.classpath.PCKWOMKw SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-02-12 14:38:19.004
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2086)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-02-12 14:56:44.353
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2086)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 15:17:58.144
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1950)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2085)
+	at org.eclipse.lsp4e.jdt.LSJavaCompletionProposalComputer.asJavaProposals(LSJavaCompletionProposalComputer.java:91)
+	at org.eclipse.lsp4e.jdt.LSJavaCompletionProposalComputer.computeCompletionProposals(LSJavaCompletionProposalComputer.java:59)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:348)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:340)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:289)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-02-12 15:22:15.122
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2086)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 15:45:01.939
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1950)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2085)
+	at org.eclipse.lsp4e.jdt.LSJavaCompletionProposalComputer.asJavaProposals(LSJavaCompletionProposalComputer.java:91)
+	at org.eclipse.lsp4e.jdt.LSJavaCompletionProposalComputer.computeCompletionProposals(LSJavaCompletionProposalComputer.java:59)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:348)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:340)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:289)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 15:55:39.451
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1950)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2085)
+	at org.eclipse.lsp4e.jdt.LSJavaCompletionProposalComputer.asJavaProposals(LSJavaCompletionProposalComputer.java:91)
+	at org.eclipse.lsp4e.jdt.LSJavaCompletionProposalComputer.computeCompletionProposals(LSJavaCompletionProposalComputer.java:59)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:348)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:340)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:289)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 15:56:41.243
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1950)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2085)
+	at org.eclipse.lsp4e.jdt.LSJavaCompletionProposalComputer.asJavaProposals(LSJavaCompletionProposalComputer.java:91)
+	at org.eclipse.lsp4e.jdt.LSJavaCompletionProposalComputer.computeCompletionProposals(LSJavaCompletionProposalComputer.java:59)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:348)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:340)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:289)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+!ENTRY org.eclipse.jface 2 0 2021-02-12 18:06:07.726
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-02-12 18:06:07.726
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3de8880e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@675aae38,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-02-12 18:06:07.726
+!MESSAGE A conflict occurred for CTRL+J:
+Binding(CTRL+J,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.findIncremental,Incremental Find,
+		Incremental find,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7ed330ff,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+J,
+	ParameterizedCommand(Command(org.moreunit.core.commands.jumpCommand,Jump to Test/Source,
+		Jump to the test or source associated to the current file.,
+		Category(org.moreunit.core.commands.category,MoreUnit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2133cc52,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+J,
+	ParameterizedCommand(Command(org.moreunit.core.commands.jumpCommand,Jump to Test/Source,
+		Jump to the test or source associated to the current file.,
+		Category(org.moreunit.core.commands.category,MoreUnit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2133cc52,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:07:07.851
+!MESSAGE Marker id 178 not found.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Marker id 178 not found.
+	at org.eclipse.core.internal.resources.Marker.checkInfo(Marker.java:63)
+	at org.eclipse.core.internal.resources.Marker.getAttribute(Marker.java:108)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.hasResolutions(LSPCodeActionMarkerResolution.java:193)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.hasResolution(MarkerHelpRegistry.java:264)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.hasResolutions(MarkerHelpRegistry.java:234)
+	at org.eclipse.ui.views.markers.MarkerField.annotateImage(MarkerField.java:87)
+	at org.eclipse.ui.internal.views.markers.MarkerProblemSeverityAndMessageField.update(MarkerProblemSeverityAndMessageField.java:80)
+	at org.eclipse.ui.internal.views.markers.MarkerColumnLabelProvider.update(MarkerColumnLabelProvider.java:57)
+	at org.eclipse.jface.viewers.ViewerColumn.refresh(ViewerColumn.java:144)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:959)
+	at org.eclipse.ui.internal.views.markers.MarkersTreeViewer.doUpdateItem(MarkersTreeViewer.java:70)
+	at org.eclipse.jface.viewers.AbstractTreeViewer$UpdateItemSafeRunnable.run(AbstractTreeViewer.java:126)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:1037)
+	at org.eclipse.jface.viewers.StructuredViewer$UpdateItemSafeRunnable.run(StructuredViewer.java:427)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.updateItem(StructuredViewer.java:2111)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.updateChildren(AbstractTreeViewer.java:2775)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1960)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:677)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1966)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:677)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1936)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1893)
+	at org.eclipse.jface.viewers.StructuredViewer.lambda$3(StructuredViewer.java:1484)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1400)
+	at org.eclipse.jface.viewers.TreeViewer.preservingSelection(TreeViewer.java:363)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1361)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1484)
+	at org.eclipse.jface.viewers.ColumnViewer.refresh(ColumnViewer.java:538)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1445)
+	at org.eclipse.ui.internal.views.markers.UIUpdateJob.runInUIThread(UIUpdateJob.java:103)
+	at org.eclipse.ui.progress.UIJob.lambda$0(UIJob.java:95)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4001)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3629)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+!SUBENTRY 1 org.eclipse.core.resources 4 376 2021-02-12 18:07:07.853
+!MESSAGE Marker id 178 not found.
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:07:09.303
+!MESSAGE Marker id 178 not found.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Marker id 178 not found.
+	at org.eclipse.core.internal.resources.Marker.checkInfo(Marker.java:63)
+	at org.eclipse.core.internal.resources.Marker.setAttribute(Marker.java:260)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.lambda$3(LSPCodeActionMarkerResolution.java:163)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+!SUBENTRY 1 org.eclipse.core.resources 4 376 2021-02-12 18:07:09.304
+!MESSAGE Marker id 178 not found.
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:07:14.888
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1950)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2085)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.checkMarkerResoultion(LSPCodeActionMarkerResolution.java:170)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.hasResolutions(LSPCodeActionMarkerResolution.java:192)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.hasResolution(MarkerHelpRegistry.java:264)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.hasResolutions(MarkerHelpRegistry.java:234)
+	at org.eclipse.ui.views.markers.MarkerField.annotateImage(MarkerField.java:87)
+	at org.eclipse.ui.internal.views.markers.MarkerProblemSeverityAndMessageField.update(MarkerProblemSeverityAndMessageField.java:80)
+	at org.eclipse.ui.internal.views.markers.MarkerColumnLabelProvider.update(MarkerColumnLabelProvider.java:57)
+	at org.eclipse.jface.viewers.ViewerColumn.refresh(ViewerColumn.java:144)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:959)
+	at org.eclipse.ui.internal.views.markers.MarkersTreeViewer.doUpdateItem(MarkersTreeViewer.java:70)
+	at org.eclipse.jface.viewers.AbstractTreeViewer$UpdateItemSafeRunnable.run(AbstractTreeViewer.java:126)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:1037)
+	at org.eclipse.jface.viewers.StructuredViewer$UpdateItemSafeRunnable.run(StructuredViewer.java:427)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.updateItem(StructuredViewer.java:2111)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.updateChildren(AbstractTreeViewer.java:2775)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1960)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:677)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1966)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:677)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1936)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1893)
+	at org.eclipse.jface.viewers.StructuredViewer.lambda$3(StructuredViewer.java:1484)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1400)
+	at org.eclipse.jface.viewers.TreeViewer.preservingSelection(TreeViewer.java:363)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1361)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1484)
+	at org.eclipse.jface.viewers.ColumnViewer.refresh(ColumnViewer.java:538)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1445)
+	at org.eclipse.ui.internal.views.markers.UIUpdateJob.runInUIThread(UIUpdateJob.java:103)
+	at org.eclipse.ui.progress.UIJob.lambda$0(UIJob.java:95)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4001)
+	at org.eclipse.swt.widgets.Display.msgFilterProc(Display.java:3355)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(Native Method)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:508)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4863)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1480)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2142)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4938)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(Native Method)
+	at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:91)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4863)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4938)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:07:16.026
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1950)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2085)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.checkMarkerResoultion(LSPCodeActionMarkerResolution.java:170)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.hasResolutions(LSPCodeActionMarkerResolution.java:192)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.hasResolution(MarkerHelpRegistry.java:264)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.hasResolutions(MarkerHelpRegistry.java:234)
+	at org.eclipse.ui.views.markers.MarkerField.annotateImage(MarkerField.java:87)
+	at org.eclipse.ui.internal.views.markers.MarkerProblemSeverityAndMessageField.update(MarkerProblemSeverityAndMessageField.java:80)
+	at org.eclipse.ui.internal.views.markers.MarkerColumnLabelProvider.update(MarkerColumnLabelProvider.java:57)
+	at org.eclipse.jface.viewers.ViewerColumn.refresh(ViewerColumn.java:144)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:959)
+	at org.eclipse.ui.internal.views.markers.MarkersTreeViewer.doUpdateItem(MarkersTreeViewer.java:70)
+	at org.eclipse.jface.viewers.AbstractTreeViewer$UpdateItemSafeRunnable.run(AbstractTreeViewer.java:126)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:1037)
+	at org.eclipse.jface.viewers.StructuredViewer$UpdateItemSafeRunnable.run(StructuredViewer.java:427)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.updateItem(StructuredViewer.java:2111)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.updateChildren(AbstractTreeViewer.java:2775)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1960)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:677)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1966)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:677)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1936)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1893)
+	at org.eclipse.jface.viewers.StructuredViewer.lambda$3(StructuredViewer.java:1484)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1400)
+	at org.eclipse.jface.viewers.TreeViewer.preservingSelection(TreeViewer.java:363)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1361)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1484)
+	at org.eclipse.jface.viewers.ColumnViewer.refresh(ColumnViewer.java:538)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1445)
+	at org.eclipse.ui.internal.views.markers.UIUpdateJob.runInUIThread(UIUpdateJob.java:103)
+	at org.eclipse.ui.progress.UIJob.lambda$0(UIJob.java:95)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4001)
+	at org.eclipse.swt.widgets.Display.msgFilterProc(Display.java:3355)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(Native Method)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:508)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4863)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1480)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2142)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4938)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(Native Method)
+	at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:91)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4863)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4938)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:07:39.682
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1950)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2085)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.checkMarkerResoultion(LSPCodeActionMarkerResolution.java:170)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.hasResolutions(LSPCodeActionMarkerResolution.java:192)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.hasResolution(MarkerHelpRegistry.java:264)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.hasResolutions(MarkerHelpRegistry.java:234)
+	at org.eclipse.ui.views.markers.MarkerField.annotateImage(MarkerField.java:87)
+	at org.eclipse.ui.internal.views.markers.MarkerProblemSeverityAndMessageField.update(MarkerProblemSeverityAndMessageField.java:80)
+	at org.eclipse.ui.internal.views.markers.MarkerColumnLabelProvider.update(MarkerColumnLabelProvider.java:57)
+	at org.eclipse.jface.viewers.ViewerColumn.refresh(ViewerColumn.java:144)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:959)
+	at org.eclipse.ui.internal.views.markers.MarkersTreeViewer.doUpdateItem(MarkersTreeViewer.java:70)
+	at org.eclipse.jface.viewers.AbstractTreeViewer$UpdateItemSafeRunnable.run(AbstractTreeViewer.java:126)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:1037)
+	at org.eclipse.jface.viewers.StructuredViewer$UpdateItemSafeRunnable.run(StructuredViewer.java:427)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.updateItem(StructuredViewer.java:2111)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.updateChildren(AbstractTreeViewer.java:2775)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1960)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:677)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1966)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:677)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1936)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1893)
+	at org.eclipse.jface.viewers.StructuredViewer.lambda$3(StructuredViewer.java:1484)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1400)
+	at org.eclipse.jface.viewers.TreeViewer.preservingSelection(TreeViewer.java:363)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1361)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1484)
+	at org.eclipse.jface.viewers.ColumnViewer.refresh(ColumnViewer.java:538)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1445)
+	at org.eclipse.ui.internal.views.markers.UIUpdateJob.runInUIThread(UIUpdateJob.java:103)
+	at org.eclipse.ui.progress.UIJob.lambda$0(UIJob.java:95)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4001)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3629)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:07:40.346
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1950)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2085)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.checkMarkerResoultion(LSPCodeActionMarkerResolution.java:170)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.hasResolutions(LSPCodeActionMarkerResolution.java:192)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.hasResolution(MarkerHelpRegistry.java:264)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.hasResolutions(MarkerHelpRegistry.java:234)
+	at org.eclipse.ui.views.markers.MarkerField.annotateImage(MarkerField.java:87)
+	at org.eclipse.ui.internal.views.markers.MarkerProblemSeverityAndMessageField.update(MarkerProblemSeverityAndMessageField.java:80)
+	at org.eclipse.ui.internal.views.markers.MarkerColumnLabelProvider.update(MarkerColumnLabelProvider.java:57)
+	at org.eclipse.jface.viewers.ViewerColumn.refresh(ViewerColumn.java:144)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:959)
+	at org.eclipse.ui.internal.views.markers.MarkersTreeViewer.doUpdateItem(MarkersTreeViewer.java:70)
+	at org.eclipse.jface.viewers.AbstractTreeViewer$UpdateItemSafeRunnable.run(AbstractTreeViewer.java:126)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:1037)
+	at org.eclipse.jface.viewers.StructuredViewer$UpdateItemSafeRunnable.run(StructuredViewer.java:427)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.updateItem(StructuredViewer.java:2111)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.updateChildren(AbstractTreeViewer.java:2775)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1960)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:677)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1966)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:677)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1936)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1893)
+	at org.eclipse.jface.viewers.StructuredViewer.lambda$3(StructuredViewer.java:1484)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1400)
+	at org.eclipse.jface.viewers.TreeViewer.preservingSelection(TreeViewer.java:363)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1361)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1484)
+	at org.eclipse.jface.viewers.ColumnViewer.refresh(ColumnViewer.java:538)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1445)
+	at org.eclipse.ui.internal.views.markers.UIUpdateJob.runInUIThread(UIUpdateJob.java:103)
+	at org.eclipse.ui.progress.UIJob.lambda$0(UIJob.java:95)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4001)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3629)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:07:43.466
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1950)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2085)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.checkMarkerResoultion(LSPCodeActionMarkerResolution.java:170)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.hasResolutions(LSPCodeActionMarkerResolution.java:192)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.hasResolution(MarkerHelpRegistry.java:264)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.hasResolutions(MarkerHelpRegistry.java:234)
+	at org.eclipse.ui.views.markers.MarkerField.annotateImage(MarkerField.java:87)
+	at org.eclipse.ui.internal.views.markers.MarkerProblemSeverityAndMessageField.update(MarkerProblemSeverityAndMessageField.java:80)
+	at org.eclipse.ui.internal.views.markers.MarkerColumnLabelProvider.update(MarkerColumnLabelProvider.java:57)
+	at org.eclipse.jface.viewers.ViewerColumn.refresh(ViewerColumn.java:144)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:959)
+	at org.eclipse.ui.internal.views.markers.MarkersTreeViewer.doUpdateItem(MarkersTreeViewer.java:70)
+	at org.eclipse.jface.viewers.AbstractTreeViewer$UpdateItemSafeRunnable.run(AbstractTreeViewer.java:126)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:1037)
+	at org.eclipse.jface.viewers.StructuredViewer$UpdateItemSafeRunnable.run(StructuredViewer.java:427)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.updateItem(StructuredViewer.java:2111)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.updateChildren(AbstractTreeViewer.java:2780)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1960)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:677)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1966)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:677)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1936)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1893)
+	at org.eclipse.jface.viewers.StructuredViewer.lambda$3(StructuredViewer.java:1484)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1400)
+	at org.eclipse.jface.viewers.TreeViewer.preservingSelection(TreeViewer.java:363)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1361)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1484)
+	at org.eclipse.jface.viewers.ColumnViewer.refresh(ColumnViewer.java:538)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1445)
+	at org.eclipse.ui.internal.views.markers.UIUpdateJob.runInUIThread(UIUpdateJob.java:103)
+	at org.eclipse.ui.progress.UIJob.lambda$0(UIJob.java:95)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4001)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3629)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:07:45.365
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1950)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2085)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.checkMarkerResoultion(LSPCodeActionMarkerResolution.java:170)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.hasResolutions(LSPCodeActionMarkerResolution.java:192)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.hasResolution(MarkerHelpRegistry.java:264)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.hasResolutions(MarkerHelpRegistry.java:234)
+	at org.eclipse.ui.views.markers.MarkerField.annotateImage(MarkerField.java:87)
+	at org.eclipse.ui.internal.views.markers.MarkerProblemSeverityAndMessageField.update(MarkerProblemSeverityAndMessageField.java:80)
+	at org.eclipse.ui.internal.views.markers.MarkerColumnLabelProvider.update(MarkerColumnLabelProvider.java:57)
+	at org.eclipse.jface.viewers.ViewerColumn.refresh(ViewerColumn.java:144)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:959)
+	at org.eclipse.ui.internal.views.markers.MarkersTreeViewer.doUpdateItem(MarkersTreeViewer.java:70)
+	at org.eclipse.jface.viewers.AbstractTreeViewer$UpdateItemSafeRunnable.run(AbstractTreeViewer.java:126)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:1037)
+	at org.eclipse.jface.viewers.StructuredViewer$UpdateItemSafeRunnable.run(StructuredViewer.java:427)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.updateItem(StructuredViewer.java:2111)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.updateChildren(AbstractTreeViewer.java:2775)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1960)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:677)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1966)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:677)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1936)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1893)
+	at org.eclipse.jface.viewers.StructuredViewer.lambda$3(StructuredViewer.java:1484)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1400)
+	at org.eclipse.jface.viewers.TreeViewer.preservingSelection(TreeViewer.java:363)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1361)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1484)
+	at org.eclipse.jface.viewers.ColumnViewer.refresh(ColumnViewer.java:538)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1445)
+	at org.eclipse.ui.internal.views.markers.UIUpdateJob.runInUIThread(UIUpdateJob.java:103)
+	at org.eclipse.ui.progress.UIJob.lambda$0(UIJob.java:95)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4001)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3629)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:07:46.007
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1950)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2085)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.checkMarkerResoultion(LSPCodeActionMarkerResolution.java:170)
+	at org.eclipse.lsp4e.operations.codeactions.LSPCodeActionMarkerResolution.hasResolutions(LSPCodeActionMarkerResolution.java:192)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.hasResolution(MarkerHelpRegistry.java:264)
+	at org.eclipse.ui.internal.ide.registry.MarkerHelpRegistry.hasResolutions(MarkerHelpRegistry.java:234)
+	at org.eclipse.ui.views.markers.MarkerField.annotateImage(MarkerField.java:87)
+	at org.eclipse.ui.internal.views.markers.MarkerProblemSeverityAndMessageField.update(MarkerProblemSeverityAndMessageField.java:80)
+	at org.eclipse.ui.internal.views.markers.MarkerColumnLabelProvider.update(MarkerColumnLabelProvider.java:57)
+	at org.eclipse.jface.viewers.ViewerColumn.refresh(ViewerColumn.java:144)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:959)
+	at org.eclipse.ui.internal.views.markers.MarkersTreeViewer.doUpdateItem(MarkersTreeViewer.java:70)
+	at org.eclipse.jface.viewers.AbstractTreeViewer$UpdateItemSafeRunnable.run(AbstractTreeViewer.java:126)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:1037)
+	at org.eclipse.jface.viewers.StructuredViewer$UpdateItemSafeRunnable.run(StructuredViewer.java:427)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.updateItem(StructuredViewer.java:2111)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.updateChildren(AbstractTreeViewer.java:2775)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1960)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:677)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1966)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:677)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1936)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1893)
+	at org.eclipse.jface.viewers.StructuredViewer.lambda$3(StructuredViewer.java:1484)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1400)
+	at org.eclipse.jface.viewers.TreeViewer.preservingSelection(TreeViewer.java:363)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1361)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1484)
+	at org.eclipse.jface.viewers.ColumnViewer.refresh(ColumnViewer.java:538)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1445)
+	at org.eclipse.ui.internal.views.markers.UIUpdateJob.runInUIThread(UIUpdateJob.java:103)
+	at org.eclipse.ui.progress.UIJob.lambda$0(UIJob.java:95)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4001)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3629)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:09:42.845
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2063)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.computeCompletionProposals(LSContentAssistProcessor.java:105)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$2(LanguageServerWrapper.java:250)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	... 1 more
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:09:45.784
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2063)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.computeCompletionProposals(LSContentAssistProcessor.java:105)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$2(LanguageServerWrapper.java:250)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	... 1 more
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:09:45.910
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2063)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.computeCompletionProposals(LSContentAssistProcessor.java:105)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$2(LanguageServerWrapper.java:250)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	... 1 more
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:09:46.217
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2063)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.computeCompletionProposals(LSContentAssistProcessor.java:105)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$2(LanguageServerWrapper.java:250)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	... 1 more
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:09:46.448
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2063)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.computeCompletionProposals(LSContentAssistProcessor.java:105)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$2(LanguageServerWrapper.java:250)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	... 1 more
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:09:46.567
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2063)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.computeCompletionProposals(LSContentAssistProcessor.java:105)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$2(LanguageServerWrapper.java:250)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	... 1 more
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:09:46.769
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2063)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.computeCompletionProposals(LSContentAssistProcessor.java:105)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$2(LanguageServerWrapper.java:250)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	... 1 more
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:09:46.944
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2063)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.computeCompletionProposals(LSContentAssistProcessor.java:105)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$2(LanguageServerWrapper.java:250)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	... 1 more
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:09:47.176
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2063)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.computeCompletionProposals(LSContentAssistProcessor.java:105)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$2(LanguageServerWrapper.java:250)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	... 1 more
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:09:47.482
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2063)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.computeCompletionProposals(LSContentAssistProcessor.java:105)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$2(LanguageServerWrapper.java:250)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	... 1 more
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:09:51.632
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2063)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.computeCompletionProposals(LSContentAssistProcessor.java:105)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$2(LanguageServerWrapper.java:250)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	... 1 more
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:09:52.312
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2063)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.computeCompletionProposals(LSContentAssistProcessor.java:105)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$2(LanguageServerWrapper.java:250)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	... 1 more
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:09:52.563
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2063)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.computeCompletionProposals(LSContentAssistProcessor.java:105)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$2(LanguageServerWrapper.java:250)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	... 1 more
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:09:54.017
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2063)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.computeCompletionProposals(LSContentAssistProcessor.java:105)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$2(LanguageServerWrapper.java:250)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	... 1 more
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:09:54.246
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2063)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.computeCompletionProposals(LSContentAssistProcessor.java:105)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$2(LanguageServerWrapper.java:250)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	... 1 more
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:09:54.393
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2063)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.computeCompletionProposals(LSContentAssistProcessor.java:105)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$2(LanguageServerWrapper.java:250)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	... 1 more
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:09:54.525
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2063)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.computeCompletionProposals(LSContentAssistProcessor.java:105)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$2(LanguageServerWrapper.java:250)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	... 1 more
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:09:54.789
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2063)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.computeCompletionProposals(LSContentAssistProcessor.java:105)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$2(LanguageServerWrapper.java:250)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	... 1 more
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:09:54.942
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2063)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.computeCompletionProposals(LSContentAssistProcessor.java:105)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$2(LanguageServerWrapper.java:250)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	... 1 more
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-12 18:09:55.079
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2063)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.computeCompletionProposals(LSContentAssistProcessor.java:105)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$2(LanguageServerWrapper.java:250)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	... 1 more
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-12 18:10:51.431
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.PCKWOMKw
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-12 18:10:51.887
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.PCKWOMKw
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-12 18:10:51.979
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-02-12 18:10:51.997
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.PCKWOMKw => OK
+
+!ENTRY org.eclipse.ui 2 2 2021-02-12 18:10:52.851
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
