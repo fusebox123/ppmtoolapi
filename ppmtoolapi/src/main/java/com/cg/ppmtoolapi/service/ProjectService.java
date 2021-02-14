@@ -3,8 +3,10 @@ package com.cg.ppmtoolapi.service;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import com.cg.ppmtoolapi.domain.Backlog;
 import com.cg.ppmtoolapi.domain.Project;
 import com.cg.ppmtoolapi.exception.ProjectIdException;
+import com.cg.ppmtoolapi.repository.BacklogRepository;
 import com.cg.ppmtoolapi.repository.ProjectRepository;
 
 @Service
@@ -13,9 +15,23 @@ public class ProjectService {
 	@Autowired 
 	private ProjectRepository projectRepository;
 	
+	@Autowired
+	private BacklogRepository backlogRepository;
+	
 	public Project saveOrUpdate(Project project) {
 		try {
 			project.setProjectIdentifier(project.getProjectIdentifier().toUpperCase());
+			//when  project is getting saved first time
+			if(project.getId()==null) {
+				Backlog backlog = new Backlog();
+				project.setBacklog(backlog);
+				backlog.setProject(project);
+				backlog.setProjectIdentifier(project.getProjectIdentifier().toUpperCase()); 
+			}
+			//when project is getting updated
+			if(project.getId()!=null) {
+				project.setBacklog(backlogRepository.findByProjectIdentifier(project.getProjectIdentifier().toUpperCase()));
+			}
 			return projectRepository.save(project);
 		}
 		catch(Exception e) {
